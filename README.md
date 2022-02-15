@@ -1,6 +1,6 @@
 ### 
-<img align='left' src="https://tenor.com/view/16bit-lo-fi-hip-hop-lo-fi-lo-fi-aesthetic-pizza-joint-gif-14688868"
-width='20%'>
+<img align='right' src="https://github.com/ed-aguirre/ed-aguirre/blob/main/gifs/lofi-hip-hop.gif"
+width='40%'>
      
 <h1 align='left'>Hi, I'm Eduardo🐱‍💻</h1>
 <h3 align='left'> 
