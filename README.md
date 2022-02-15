@@ -59,9 +59,6 @@ My name is Luis Eduardo Aguirre Fuentes, I'm 24 years old, I live in Mexico and 
 	<td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="60">
     </td>
-	<td align='center'>
-        <img src="https://scontent.fmid1-4.fna.fbcdn.net/v/t39.2365-6/76870833_509761306273232_5468210970943815680_n.svg?_nc_cat=108&amp;ccb=1- 5&amp;_nc_sid=ad8a9d&amp;_nc_eui2=AeHmxuvtUL0jBXUM6b6oH9--  rwJKI4YKjBCvAkojhgqMEEAKg86GNdnZjf1JoVt__lDtvfv5w85u5wXcxsiarRR9&amp;_nc_ohc=yizr6TixSI4AX9KGBGO&amp;_nc_ht=scontent.fmid1-4.fna&amp;oh=00_AT-  lRBJ5KTkBWZ5W1J24zRboRUu0oMZotBwe_GC9IIaFUg&amp;oe=62103A55" >
-    </td>
 </tr>
 </table>
 
