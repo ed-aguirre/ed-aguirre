@@ -10,6 +10,10 @@ My name is Luis Eduardo Aguirre Fuentes, I'm 24 years old, I live in Mexico and 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=console&color=%23F77F0C&width=650&lines=The+most+interesting+thing+in+life+is+living+it+%F0%9F%8C%86%E2%9C%A8)](https://git.io/typing-svg)
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ed-aguirre&title=MultiLanguage,Commits,Repositories,Followers,PullRequest&theme=juicyfresh" alt="ed-aguirre" /></a>
+</p>
+
 <h2 align='left'><i>Languajes and tools</i></h2>
 <table width="100" align="center">
 <tr>
@@ -61,6 +65,10 @@ My name is Luis Eduardo Aguirre Fuentes, I'm 24 years old, I live in Mexico and 
     </td>
 </tr>
 </table>
+
+<p align='center'>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ed-aguirre&show_icons=true&locale=en&layout=compact" alt="ed-aguirre" />
+</p>
 
 <!--
 **ed-aguirre/ed-aguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
