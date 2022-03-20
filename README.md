@@ -63,6 +63,10 @@ My name is Luis Eduardo Aguirre Fuentes, I'm 24 years old, I live in Mexico and 
 	<td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="60">
     </td>
+	<td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" width="100">
+    </td>
+	
 </tr>
 </table>
 
