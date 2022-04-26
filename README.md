@@ -3,6 +3,8 @@
 width='40%'>
      
 <h1 align='left'>Hi, I'm Eduardo🐱‍💻</h1>
+
+<img src="https://www.codewars.com/users/eduarlalo/badges/small">
 <h3 align='left'> 
   Welcome to my profile! 
 </h3>
