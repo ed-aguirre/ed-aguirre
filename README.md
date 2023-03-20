@@ -8,7 +8,7 @@ width='40%'>
 <h3 align='left'> 
   Welcome to my profile! 
 </h3>
-I'm web developer enthusiast 🧡.
+I'm enthusiastic web developer 🧡.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=console&color=%23F77F0C&width=650&lines=The+most+interesting+thing+in+life+is+living+it+%F0%9F%8C%86%E2%9C%A8)](https://git.io/typing-svg)
 
