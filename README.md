@@ -25,7 +25,7 @@ I'm an enthusiastic web developer 🧡.
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
      <td align='center' width="190">
-        <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
+        <img src="https://github.com/detain/svg-logos/blob/master/svg/p/postman.svg" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://github.com/prplx/svg-logos/blob/master/svg/angular.svg" width="60">
